@@ -1,5 +1,3 @@
-# ©️ DKBOTZ or https://t.me/DKBOTZ
-# Coded By https://t.me/DKBOTZHELP 
 # Don't Edit
 
 # temp db for banned 
