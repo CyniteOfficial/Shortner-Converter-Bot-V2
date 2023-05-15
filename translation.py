@@ -40,7 +40,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Shortnerfly** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @ShortnerFlyBot. I am Shortener Fly Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @shortern_url_bot. I am Shortener Fly Link Converter Bot.**
 
 **⚡Features⚡**
 
@@ -160,7 +160,7 @@ Or
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @cyniteofficial For More Help -**"""
+**- Message @TurboxGeekFor More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
